@@ -11,7 +11,7 @@
   "require": {
     "php": ">=7.2",
     "ext-swoole": ">=4.4",
-    "matyhtf/framework": "dev-master"
+    "matyhtf/framework": ">=3.0.0"
   },
   "repositories": {
     "packagist": {
