@@ -1,0 +1,22 @@
+{
+  "name": "matyhtf/skeleton",
+  "type": "project",
+  "keywords": [
+    "swoole",
+    "php",
+    "framework"
+  ],
+  "description": "A coroutine framework that focuses on hyperspeed and flexible, specifically use for build microservices and middlewares.",
+  "license": "Apache-2.0",
+  "require": {
+    "php": ">=7.2",
+    "ext-swoole": ">=4.4",
+    "matyhtf/framework": "dev-master"
+  },
+  "repositories": {
+    "packagist": {
+      "type": "composer",
+      "url": "https://mirrors.aliyun.com/composer"
+    }
+  }
+}
